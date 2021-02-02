@@ -1,0 +1,12 @@
+.info {
+  float: center;
+}
+
+.tour {
+  float: left;
+  color: magenta;
+}
+
+.img {
+  float: right;
+}
