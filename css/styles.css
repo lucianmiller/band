@@ -5,6 +5,10 @@
 .tour {
   float: left;
   color: magenta;
+  margin: 12px;
+  border: 2px solid lightblue;
+  padding: 4px;
+  background-color: black;
 }
 
 .img {
