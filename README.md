@@ -1,12 +1,12 @@
 # Band
 
-#### Float Practice for Epicodus, 2/2/2021
+#### Float and Box Modle Practice for Epicodus, 2/3/2021
 
 #### By Lucain Miller
 
 ## Description
 
-This website was made to practuse floating classes to the left and right of the page, using the my favorite band as a subject.
+This website was made to practuse floating classes to the left and right of the page and practice the box modle, using the my favorite band as a subject.
 
 ## Setup/Installation Requirements
 
